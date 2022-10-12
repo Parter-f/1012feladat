@@ -5,6 +5,7 @@ A munkahelyeden azt a feladatot kapod, hogy a designerek által elkészített k�
 (és frontend) működéssel. A feladat megoldásához használd a források mappában található index.html és
  style.css fájlokat!
 
+
 Kritériumok, amelyek alapján dolgoznod kell:
 
  - a kapott kódot a felhasználó magyar nyelven lássa (, egyszerűen írd át a megfelelő részeket

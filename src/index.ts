@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded' , () => {
         }
         if(password.length > 10 || password.length < 5 ){
             console.log("rósz jelszó");
+            
         }
 
 
