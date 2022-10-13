@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded' , () => {
         let bool3 : boolean;
         let bool4 : boolean;
         let bool5 : boolean;
+        
 
 
         if(username.includes('&') || username.includes('_') || username.includes('=') || username[0] == '.' || username.length < 6 || username.length > 30 || username.includes('.') || username.includes(',') || username.includes('+')){
